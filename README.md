@@ -75,4 +75,11 @@
 
 
 **Source:** [How to install PHP on Windows](https://www.sitepoint.com/how-to-install-php-on-windows/)
+## To install MySQL on *Windows* 
+1. [Download MSI installer](https://dev.mysql.com/downloads/windows/installer/)
+2. [Use this link to install it properly](https://phoenixnap.com/kb/install-mysql-on-windows)
+
+
+There are also some other ways to install MySQL which you can find out about them through the link below: <br>
+[How to install MySQL](https://www.sitepoint.com/how-to-install-mysql/)
    
